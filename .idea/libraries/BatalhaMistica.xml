@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BatalhaMistica">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BatalhaMistica/dist/BatalhaMistica.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
